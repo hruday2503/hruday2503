@@ -14,7 +14,7 @@
 ---
 
 ### 💬 Ask me about:
-- Python, C, Swift, Qiskit
+- Python, Java, Swift, Qiskit
 - Embedded System
 - Quantum Gates, Circuits & QML
 
