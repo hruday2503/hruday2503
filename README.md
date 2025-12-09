@@ -1,6 +1,6 @@
 # Hi 👋, I'm Hruday Divakaran
 
-🌟 A second-year Computer Science Engineering student  
+🌟 A 3rd-year Computer Science Engineering student  
 💡 Working on **Quantum Computing**, **AI/ML**, and **Embedded Systems**  
 🎯 Passionate about building futuristic tech like **Hyperloop** and **AI-based innovations**
 
