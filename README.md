@@ -1,15 +1,16 @@
 # Hi 👋, I'm Hruday Divakaran
 
 🌟 A 3rd-year Computer Science Engineering student  
-💡 Working on **Quantum Computing**, **AI/ML**, and **Embedded Systems**  
-🎯 Passionate about building futuristic tech like **Hyperloop** and **AI-based innovations**
+💡 Working on **Quantum Computing**, **AI/ML**, and **Full Stack Development**  
+🎯 Passionate about building futuristic tech like **Hyperloop** and working in **Quantum Computing based innovations**
 
 ---
 
 ### 💬 Ask me about:
-- Python, Java, Swift, Qiskit
+- Python, C++, Qiskit, TypeScript, ReactJS, NodeJS
 - Embedded System
-- Quantum Gates, Circuits & QML
+- Quantum Optimisation, QAOA, VQE
+- 
 
 ---
 
