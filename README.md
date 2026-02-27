@@ -6,13 +6,6 @@
 
 ---
 
-### 🔭 I’m currently working on:
-- A Hyperloop prototype 🚄 (Embedded System + Software Configuration)
-- AI/ML projects on satellite image classification and braking systems
-- An app based for dyslexic students on Swift
-
----
-
 ### 💬 Ask me about:
 - Python, Java, Swift, Qiskit
 - Embedded System
